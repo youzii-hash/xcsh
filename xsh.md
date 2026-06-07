@@ -49,11 +49,10 @@ URL=https://space.bilibili.com/475115145
 #弹窗公告#
 {
 标题=祝大家天天开心~
-正文=点击下图免费获取超好用的加速器!!![图片]https://github.com/youzii-hash/xcsh/blob/main/v.webp,https://github.com/youzii-hash/xcsh/blob/main/v.webp[/图片]
+正文=点击下图免费获取超好用的加速器!!![图片]https://github.com/youzii-hash/xcsh/blob/main/123212321.png,https://github.com/youzii-hash/xcsh/blob/main/123212321.png[/图片]
 [分割线]
 小沧工具箱跟小沧脱机日常也快完工了，大家可以期待一下
 }
-
 
 
 

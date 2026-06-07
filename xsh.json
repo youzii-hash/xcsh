@@ -1,7 +1,7 @@
 {
   "schema": "xiaocang.announce.sections",
   "version": 1,
-  "generated_at": "2026-06-07T12:38:13+08:00",
+  "generated_at": "2026-06-08T01:54:47+08:00",
   "source": "xsh.md",
   "sections": {
     "工具介绍": {
@@ -321,8 +321,8 @@
           "items": [
             {
               "type": "image",
-              "src": "https://github.com/youzii-hash/xcsh/blob/main/v.webp",
-              "href": "https://github.com/youzii-hash/xcsh/blob/main/v.webp",
+              "src": "https://github.com/youzii-hash/xcsh/blob/main/123212321.png",
+              "href": "https://github.com/youzii-hash/xcsh/blob/main/123212321.png",
               "scale": 1.0
             }
           ]
