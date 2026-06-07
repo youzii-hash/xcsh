@@ -1,0 +1,346 @@
+{
+  "schema": "xiaocang.announce.sections",
+  "version": 1,
+  "generated_at": "2026-06-07T12:38:13+08:00",
+  "source": "xsh.md",
+  "sections": {
+    "工具介绍": {
+      "kind": "content",
+      "title": "小沧全能上号器  by寒雪飞舞",
+      "blocks": [
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "有多个小号的玩家，以及代肝的一键代挂神器！假设你是号商，需要挂几十个甚至近百个号，一个一个手动输入非常折磨人，而用小沧全能上号器，只需点击一次一键后台自动化上号！"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "分批上号：支持分批上号，避免号数量过多导致卡顿，可设置分批间隔，确保每批都成功挂完再继续第二批"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "重试机制：优秀的重试机制，一共会重试三次，如重试三次都失败则弹窗提示：“卡住了！请检查网络连接是否正常”"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "可勾选硬重试：不再弹窗提示卡住，而是直接重启当前脱机，继续重试！"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "设置自动保存：不论是输入的账号，还是任何设置，都是自动保存的，下次启动不用重复输入！"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "甚至路径都只需要设置一次，每周更新脱机版本，路径会自动切换到最新版！"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "账号搜索功能：如果你是代肝或者号商，代肝完毕/号卖出去了 可以直接搜索对应账号，精准移除账号列表"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": []
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "【个人版】：永久免费，最大上限填写5个号，基本可以满足大部分有多个小号的个人用户~"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "支持全脱机工具 ✓   自动勾选周活动 ✓   硬重试 ✓   挂完自动关闭脱机+上号器 ✓   挂完自动关机 ✓"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "注意：工具执行过程不能遮挡屏幕，避免识图失败"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "【代肝专业版】："
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "个人版全功能 ✓   可填写无限账号 ✓   支持分批上号 ✓   支持后台无感上号！完全不惧遮挡屏幕，可一边玩原神一边后台执行 ✓"
+            }
+          ]
+        }
+      ]
+    },
+    "加入群聊": {
+      "kind": "content",
+      "title": "",
+      "blocks": [
+        {
+          "type": "row",
+          "centered": true,
+          "items": [
+            {
+              "type": "image",
+              "src": "https://github.com/youzii-hash/xcsh/blob/main/seer.jpg",
+              "href": "https://qm.qq.com/q/fGbb2CSmju",
+              "scale": 1.0
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "row",
+          "centered": true,
+          "items": [
+            {
+              "type": "text",
+              "text": "欢迎加入我们的小家庭：746096271"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": true,
+          "items": [
+            {
+              "type": "text",
+              "text": "可扫描上方二维码添加，或"
+            },
+            {
+              "type": "link",
+              "text": "点击直接申请",
+              "href": "https://qm.qq.com/q/fGbb2CSmju"
+            }
+          ]
+        }
+      ]
+    },
+    "作者B站": {
+      "kind": "url",
+      "url": "https://space.bilibili.com/475115145"
+    },
+    "获取代肝版": {
+      "kind": "content",
+      "title": "",
+      "blocks": [
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "【官方闲鱼店铺】：寒雪飞舞，"
+            },
+            {
+              "type": "link",
+              "text": "点击访问",
+              "href": "https://space.bilibili.com/475115145"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "店铺购买的激活码可直接在此用，绑定的是你的QQ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": []
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "【个人版】：永久免费，最大上限填写5个号，基本可以满足大部分有多个小号的个人用户~"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "支持全脱机工具 ✓   自动勾选周活动 ✓   硬重试 ✓   挂完自动关闭脱机+上号器 ✓   挂完自动关机 ✓"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "注意：工具执行过程不能遮挡屏幕，避免识图失败"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "【代肝专业版】："
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "个人版全功能 ✓   可填写无限账号 ✓   支持分批上号 ✓   支持后台无感上号！完全不惧遮挡屏幕，可一边玩原神一边后台执行 ✓"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": []
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "- 专业版定价：月卡：25r，  年卡：210r（7折）， 永久卡：240r（限时,之后只卖年卡）"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "购买任意套餐即可加入上号器内群，欢迎加入小沧的小团体~"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": []
+        }
+      ]
+    },
+    "弹窗公告": {
+      "kind": "content",
+      "title": "祝大家天天开心~",
+      "blocks": [
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "点击下图免费获取超好用的加速器!!!"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "image",
+              "src": "https://github.com/youzii-hash/xcsh/blob/main/v.webp",
+              "href": "https://github.com/youzii-hash/xcsh/blob/main/v.webp",
+              "scale": 1.0
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "小沧工具箱跟小沧脱机日常也快完工了，大家可以期待一下"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
