@@ -1,7 +1,7 @@
 {
   "schema": "xiaocang.update.versions",
   "version": 1,
-  "generated_at": "2026-06-09T23:27:26+08:00",
+  "generated_at": "2026-06-09T23:32:01+08:00",
   "source": "update.md",
   "latest_version": "1.0.1",
   "updates": [
