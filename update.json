@@ -1,0 +1,80 @@
+{
+  "schema": "xiaocang.update.versions",
+  "version": 1,
+  "generated_at": "2026-06-09T22:08:55+08:00",
+  "source": "update.txt",
+  "latest_version": "1.0.1",
+  "updates": [
+    {
+      "version": "1.0.1",
+      "title": "有新版本啦~",
+      "content": "1：优化了一些卡顿问题\n2：精简安装包体积\n[分割线]欢迎加入官群聊天：123456789",
+      "blocks": [
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "1：优化了一些卡顿问题"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "2：精简安装包体积"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "欢迎加入官群聊天：123456789"
+            }
+          ]
+        }
+      ],
+      "type": "非强制",
+      "kind": "optional",
+      "forced": false,
+      "internal_url": "https://github.com/youzii-hash/xcgjxd/blob/main/tools%20img/MW%E6%89%8B%E5%86%8C.apk",
+      "download_url": "https://fastly.jsdelivr.net/gh/youzii-hash/xcgjxd@main/tools%20img/MW%E6%89%8B%E5%86%8C.apk",
+      "raw_download_url": "https://raw.githubusercontent.com/youzii-hash/xcgjxd/main/tools%20img/MW%E6%89%8B%E5%86%8C.apk",
+      "external_url": "https://github.com/youzii-hash/xcgjxd/blob/main/tools%20img/MW%E6%89%8B%E5%86%8C.apk"
+    },
+    {
+      "version": "1.0.0",
+      "title": "测试",
+      "content": "测试",
+      "blocks": [
+        {
+          "type": "row",
+          "centered": false,
+          "items": [
+            {
+              "type": "text",
+              "text": "测试"
+            }
+          ]
+        }
+      ],
+      "type": "测试",
+      "kind": "unknown",
+      "forced": false,
+      "internal_url": "测试",
+      "download_url": "测试",
+      "raw_download_url": "测试",
+      "external_url": "测试"
+    }
+  ]
+}
