@@ -1,7 +1,7 @@
 {
   "schema": "xiaocang.announce.sections",
   "version": 1,
-  "generated_at": "2026-06-08T01:54:47+08:00",
+  "generated_at": "2026-06-09T21:33:36+08:00",
   "source": "xsh.md",
   "sections": {
     "工具介绍": {
@@ -82,16 +82,6 @@
           "type": "row",
           "centered": false,
           "items": []
-        },
-        {
-          "type": "row",
-          "centered": false,
-          "items": [
-            {
-              "type": "text",
-              "text": "【个人版】：永久免费，最大上限填写5个号，基本可以满足大部分有多个小号的个人用户~"
-            }
-          ]
         },
         {
           "type": "row",
@@ -207,27 +197,7 @@
         {
           "type": "row",
           "centered": false,
-          "items": [
-            {
-              "type": "text",
-              "text": "店铺购买的激活码可直接在此用，绑定的是你的QQ"
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "centered": false,
           "items": []
-        },
-        {
-          "type": "row",
-          "centered": false,
-          "items": [
-            {
-              "type": "text",
-              "text": "【个人版】：永久免费，最大上限填写5个号，基本可以满足大部分有多个小号的个人用户~"
-            }
-          ]
         },
         {
           "type": "row",
@@ -307,7 +277,7 @@
       "blocks": [
         {
           "type": "row",
-          "centered": false,
+          "centered": true,
           "items": [
             {
               "type": "text",
@@ -317,7 +287,7 @@
         },
         {
           "type": "row",
-          "centered": false,
+          "centered": true,
           "items": [
             {
               "type": "image",
@@ -332,7 +302,7 @@
         },
         {
           "type": "row",
-          "centered": false,
+          "centered": true,
           "items": [
             {
               "type": "text",
