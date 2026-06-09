@@ -1,7 +1,7 @@
 {
   "schema": "xiaocang.announce.sections",
   "version": 1,
-  "generated_at": "2026-06-09T21:33:36+08:00",
+  "generated_at": "2026-06-09T22:48:19+08:00",
   "source": "xsh.md",
   "sections": {
     "工具介绍": {
@@ -273,7 +273,7 @@
     },
     "弹窗公告": {
       "kind": "content",
-      "title": "祝大家天天开心~",
+      "title": "公告",
       "blocks": [
         {
           "type": "row",
@@ -281,7 +281,17 @@
           "items": [
             {
               "type": "text",
-              "text": "点击下图免费获取超好用的加速器!!!"
+              "text": "个人版完全免费！"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": true,
+          "items": [
+            {
+              "type": "text",
+              "text": "有多个小号的玩家，不用再手动一个个打开脱机切换账号了！"
             }
           ]
         },
@@ -294,6 +304,26 @@
               "src": "https://github.com/youzii-hash/xcsh/blob/main/123212321.png",
               "href": "https://github.com/youzii-hash/xcsh/blob/main/123212321.png",
               "scale": 1.0
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": true,
+          "items": [
+            {
+              "type": "text",
+              "text": "后续将加入一键勾选自定义 脚本/魔法/指令 功能，代肝精灵也可以点击一次直接肝多个账号了！"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "centered": true,
+          "items": [
+            {
+              "type": "text",
+              "text": "欢迎加入群聊获取最新通知~"
             }
           ]
         },
