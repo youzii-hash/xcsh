@@ -45,8 +45,12 @@ URL=https://space.bilibili.com/475115145
 
 #弹窗公告#
 {
-标题=祝大家天天开心~
-居中正文=点击下图免费获取超好用的加速器!!![图片]https://github.com/youzii-hash/xcsh/blob/main/123212321.png,https://github.com/youzii-hash/xcsh/blob/main/123212321.png[/图片]
+标题=公告
+居中正文=个人版完全免费！
+有多个小号的玩家，不用再手动一个个打开脱机切换账号了！
+[图片]https://github.com/youzii-hash/xcsh/blob/main/123212321.png,https://github.com/youzii-hash/xcsh/blob/main/123212321.png[/图片]
+后续将加入一键勾选自定义 脚本/魔法/指令 功能，代肝精灵也可以点击一次直接肝多个账号了！
+欢迎加入群聊获取最新通知~
 [分割线]
 居中正文=小沧工具箱跟小沧脱机日常也快完工了，大家可以期待一下
 }
