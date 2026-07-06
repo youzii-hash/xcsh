@@ -1,58 +1,10 @@
 {
   "schema": "xiaocang.update.versions",
   "version": 1,
-  "generated_at": "2026-06-09T23:32:01+08:00",
+  "generated_at": "2026-07-06T20:32:31+08:00",
   "source": "update.md",
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.0",
   "updates": [
-    {
-      "version": "1.0.1",
-      "title": "有新版本啦~",
-      "content": "1：优化了一些卡顿问题\n2：精简安装包体积\n\n欢迎加入官群聊天：123456789",
-      "raw_content": "1：优化了一些卡顿问题\n2：精简安装包体积\n[分割线]欢迎加入官群聊天：123456789",
-      "blocks": [
-        {
-          "type": "row",
-          "centered": false,
-          "items": [
-            {
-              "type": "text",
-              "text": "1：优化了一些卡顿问题"
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "centered": false,
-          "items": [
-            {
-              "type": "text",
-              "text": "2：精简安装包体积"
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "row",
-          "centered": false,
-          "items": [
-            {
-              "type": "text",
-              "text": "欢迎加入官群聊天：123456789"
-            }
-          ]
-        }
-      ],
-      "type": "非强制",
-      "kind": "optional",
-      "forced": false,
-      "internal_url": "https://github.com/youzii-hash/xcgjxd/blob/main/tools%20img/MW%E6%89%8B%E5%86%8C.apk",
-      "download_url": "https://fastly.jsdelivr.net/gh/youzii-hash/xcgjxd@main/tools%20img/MW%E6%89%8B%E5%86%8C.apk",
-      "raw_download_url": "https://raw.githubusercontent.com/youzii-hash/xcgjxd/main/tools%20img/MW%E6%89%8B%E5%86%8C.apk",
-      "external_url": "https://github.com/youzii-hash/xcgjxd/blob/main/tools%20img/MW%E6%89%8B%E5%86%8C.apk"
-    },
     {
       "version": "1.0.0",
       "title": "测试",
